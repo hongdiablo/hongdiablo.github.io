@@ -11,8 +11,8 @@ relative_permalinks: false
 title:            Hong
 tagline:          'A Jekyll theme'
 description:      ''
-url:              http://hongdiablo.github.io
-baseurl:          http://hongdiablo.github.io
+url:              http://hongdiablo.github.io/
+baseurl:          http://hongdiablo.github.io/
 
 gems:
  - jekyll-paginate
