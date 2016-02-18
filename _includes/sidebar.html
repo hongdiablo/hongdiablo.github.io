@@ -17,6 +17,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+	<!--
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,6 +26,12 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+	-->
+
+
+	<a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>          
+	<a class="sidebar-nav-item{% if page.url == '/game/' %} active{% endif %}" href="/game/">Game Reviews</a>          
+	<a class="sidebar-nav-item{% if page.url == '/rpg_maker_mv/' %} active{% endif %}" href="/rpg_maker_mv/">Rpg Maker MV</a>
 
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>-->
       <!--

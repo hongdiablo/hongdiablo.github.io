@@ -22,7 +22,7 @@ author:
   name:           'Hong'
   url:            https://twitter.com/hong0102
 
-paginate:         50
+paginate:         20
 
 # Custom vars
 version:          0.0.1
