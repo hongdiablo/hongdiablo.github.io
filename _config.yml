@@ -1,7 +1,10 @@
 # Dependencies
-markdown:         kramdown 
+
 #highlighter:      pygments
+markdown:         kramdown 
 highlighter:      rouge
+
+line_numbers: true
 
 # Permalinks
 permalink:        pretty
@@ -13,6 +16,9 @@ tagline:          'A Jekyll theme'
 description:      ''
 url:              /
 baseurl:          /
+
+exclude:
+  - "run.bat"
 
 gems:
  - jekyll-paginate
@@ -29,3 +35,6 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/hongdiablo/hongdiablo.github.io.git
+
+
+

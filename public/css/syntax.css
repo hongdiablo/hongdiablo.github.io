@@ -60,6 +60,32 @@
 .highlight .vi { color: #033 } /* Name.Variable.Instance */
 .highlight .il { color: #f60 } /* Literal.Number.Integer.Long */
 
+/*
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+*/
+
+
+
+.highlight {
+  pre.lineno {
+    border: none;
+    @include opacity(0.6);  
+  }
+
+  .lineno {
+    @include unselectable();
+  }
+
+  .gutter {
+    border-right: 1px solid #ccc;
+  }
+
+  pre {
+    pre {
+      border: none;
+      margin-bottom: 0px;
+    }
+  }
+}
