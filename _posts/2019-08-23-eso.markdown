@@ -116,6 +116,32 @@ categories: jekyll update
  - 글리프는 인벤토리의 장비에 마우스 오른쪽 버튼을 눌러서 마법 부여로 사용 가능함.
  - 10렙에 집을 받으면 하우징 꾸미기로 보관함을 설치 할 수 있다.
 
+## 제작 가이드
+
+- 룬
+  - 동그란 룬이 등급을 결정
+  - 룬은 길드상점에서 사는게 편한다
+  - 티끌만한 타 스테미너 룬 : Jora + Deni + Ta 조합
+  - 외부 가이드
+    - [레시피](https://elderscrollsonline.wiki.fextralife.com/Glyphs)
+    - [상편](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=3624&page=4&exception_mode=recommend)
+    - [하편](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=3755&page=4&exception_mode=recommend)
+- 물약
+  - [레시피](https://elderscrolls.fandom.com/wiki/Alchemy_Recipes)
+  - [한모금의 스테미너]
+    - [노란생 엉겅퀴 Blessed Thistle](https://elderscrollsonline.wiki.fextralife.com/Blessed+Thistle)
+    - [산꽃 Mountain Flower](https://elderscrolls.fandom.com/wiki/Mountain_Flower_(Online))
+
+
+## 애드온
+- [필수애드온 설명](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=30090&s_type=search_all&s_keyword=%EB%AC%BC%EC%95%BD+%EC%9E%AC%EB%A3%8C&page=1)
+- 미니온
+  - [배포사이트](https://minion.mmoui.com/)
+  - [설명](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=26567&s_type=search_all&s_keyword=%EB%AF%B8%EB%8B%88%EC%98%A8&page=1)
+- 미니맵
+  - [링크](https://www.esoui.com/downloads/info1399-VotansMinimap.html)
+  - 위치잡기 : 채팅창을 열고 마우스로 위치 조정
+
 ## 기초 가이드 외부
 
  - [링크](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=23110&s_type=search_all&s_keyword=%EC%A1%B0%EA%B0%9C&page=1)
@@ -135,6 +161,7 @@ categories: jekyll update
 - 보물지도 : [링크](http://tamrieljournal.com/treasure-map-locations/)
 - 스카이샤드 위치 : [링크](http://tamrieljournal.com/eso-skyshard-location-map/)
 - 박물관 소장품 : [링크](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=11808&search_pos=-19572&s_type=search_all&s_keyword=%EC%86%8C%EC%9E%A5%ED%92%88&page=1)
+- 용어 : [링크](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=12520)
 
 ### 외부 팁
 
@@ -142,6 +169,7 @@ categories: jekyll update
 - [자주묻는 질문 (게임 구매전, 캐릭 생성 전, 후)](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=17912&search_pos=-19518&s_type=search_all&s_keyword=%ED%8E%8D%EB%8D%98&page=1)
 - [게임 컨텐츠 정리](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=27480&s_type=search_all&s_keyword=%EA%B3%B5%EC%84%B1%EC%A0%84&page=1)
 - [팁글 모음](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=12771&page=3)
+- [레벨링 가이드](https://alcasthq.com/eso-grind-guide/)
 
 ## 나도 모르는 가이드
 
