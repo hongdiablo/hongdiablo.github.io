@@ -149,6 +149,10 @@ categories: jekyll update
 - 미니맵
   - [링크](https://www.esoui.com/downloads/info1399-VotansMinimap.html)
   - 위치잡기 : 채팅창을 열고 마우스로 위치 조정
+- 자동수리
+  - [링크](https://www.esoui.com/downloads/info1091-AutoRecharge.html)
+  - /arp [0-99] 수리율 지정
+  - /arp or 지정한 단축키를 누르면 수리가 됨
 
 ## 기초 가이드 외부
 
