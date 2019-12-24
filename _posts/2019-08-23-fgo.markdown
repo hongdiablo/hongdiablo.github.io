@@ -16,3 +16,7 @@ categories: jekyll update
 - [인리소각2](https://gall.dcinside.com/typemoon/3907571)
 - [인리소각3](https://gall.dcinside.com/typemoon/3907593)
 
+## 2부
+
+- [이성의 신1](https://gall.dcinside.com/typemoon/5055499)
+- [이성의 신2](https://gall.dcinside.com/typemoon/5055515)
