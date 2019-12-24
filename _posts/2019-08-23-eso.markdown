@@ -153,6 +153,12 @@ categories: jekyll update
   - [링크](https://www.esoui.com/downloads/info1091-AutoRecharge.html)
   - /arp [0-99] 수리율 지정
   - /arp or 지정한 단축키를 누르면 수리가 됨
+- 퀘스트 맵
+  - [링크](https://www.esoui.com/downloads/info1022-QuestMap.html)
+- 맵 핀
+  - [링크](https://www.esoui.com/downloads/info1881-MapPins.html)
+- 인벤토리 정렬
+  - [링크](https://www.esoui.com/downloads/info1798-AutoCategory-CustomInventoryCategories.html)
 
 ## 기초 가이드 외부
 
@@ -177,6 +183,7 @@ categories: jekyll update
 
 ### 외부 팁
 
+- [늒네들이 흔히 질문할만한 것들에 대한 것](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=30622&page=1)
 - [엘더스크롤 온라인을 시작하시는 분들께 드리는 팁](https://bbs.ruliweb.com/game/80934/read/8170033)
 - [자주묻는 질문 (게임 구매전, 캐릭 생성 전, 후)](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=17912&search_pos=-19518&s_type=search_all&s_keyword=%ED%8E%8D%EB%8D%98&page=1)
 - [게임 컨텐츠 정리](https://gall.dcinside.com/mgallery/board/view/?id=eso&no=27480&s_type=search_all&s_keyword=%EA%B3%B5%EC%84%B1%EC%A0%84&page=1)

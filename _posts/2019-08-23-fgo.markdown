@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "FGO"
+date:   2019-12-24 12:00:00 +0900
+categories: jekyll update
+---
+
+## 1.5부 3장
+
+- [비스트 분석]({{site.baseurl}}/assets/img/fgo/beast.png)
+- [양자기록 고정대의 유래](https://gall.dcinside.com/board/view/?id=typemoon&no=5699972)
+
+## 1부, 2부 도입 분석
+
+- [인리소각1](https://gall.dcinside.com/board/view/?id=typemoon&no=3502118)
+- [인리소각2](https://gall.dcinside.com/typemoon/3907571)
+- [인리소각3](https://gall.dcinside.com/typemoon/3907593)
+
