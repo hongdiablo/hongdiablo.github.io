@@ -7,8 +7,14 @@ categories: jekyll update
 
 ## 1.5부 3장
 
+![Image Alt 텍스트]({{site.url}}/assets/img/fgo/title-1.5-3.png)
 - [비스트 분석]({{site.baseurl}}/assets/img/fgo/beast.png)
 - [양자기록 고정대의 유래](https://gall.dcinside.com/board/view/?id=typemoon&no=5699972)
+
+## 1.5부 4장
+![Image Alt 텍스트]({{site.url}}/assets/img/fgo/title-1.5-4.png)
+- [크툴루 신화](http://winoncd.blogspot.com/2013/11/blog-post_1402.html)
+
 
 ## 1부, 2부 도입 분석
 
