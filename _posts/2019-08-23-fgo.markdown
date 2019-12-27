@@ -7,6 +7,7 @@ categories: jekyll update
 
 ## 1부 스토리
 
+- 구글 주간 폴더에 바빌로니아 0화
 - [1부 요약 영상](https://www.youtube.com/watch?v=eGJk18jUg4k)
 - [전체 텍스트 대본](https://gall.dcinside.com/board/view/?id=typemoon&no=1557175)
 - [1부 전체 스토리 더빙](https://www.youtube.com/playlist?list=PLNDznGr_J8AssjTOWAhLiGq3cNWAKde6b)
