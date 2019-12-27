@@ -5,6 +5,22 @@ date:   2019-12-24 12:00:00 +0900
 categories: jekyll update
 ---
 
+## 1부 스토리
+
+- [1부 요약 영상](https://www.youtube.com/watch?v=eGJk18jUg4k)
+- [전체 텍스트 대본](https://gall.dcinside.com/board/view/?id=typemoon&no=1557175)
+- [1부 전체 스토리 더빙](https://www.youtube.com/playlist?list=PLNDznGr_J8AssjTOWAhLiGq3cNWAKde6b)
+  - [서장 후유키 영상](https://www.youtube.com/watch?v=UmpOpy2Gmq4&list=PLmlRww_SJue6T8NyLonJR7qMjfNIwNGs7) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%9B%84%EC%9C%A0%ED%82%A4)
+  - [1장 오를레앙 영상](https://www.youtube.com/watch?v=jo2Xu8ciWyQ&list=PLmlRww_SJue5-3_9X_jEdMCJSmQ401v56) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%A4%EB%A5%BC%EB%A0%88%EC%95%99)
+  - [2장 세프템 영상](https://www.youtube.com/watch?v=EyLdaWS1eK4&list=PLmlRww_SJue5GVazLB2agUwOzDn3iv-V-) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%84%B8%ED%94%84%ED%85%9C)
+  - [3장 오케아노스 영상](https://www.youtube.com/watch?v=noQZGqiNVSc&list=PLmlRww_SJue54zh8sJjvUjGBeFrZgoUg-) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%A4%EC%BC%80%EC%95%84%EB%85%B8%EC%8A%A4)
+  - [4장 런던 영상](https://www.youtube.com/watch?v=OAAeluvk-yA&list=PLmlRww_SJue7NdLcpO4gxU9Lp8DlmR7DT) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%9F%B0%EB%8D%98)
+  - [5장 에 플루리부스 우눔 영상](https://www.youtube.com/watch?v=Ye3hoB-gFsk&list=PLmlRww_SJue4iilt-ZgABcdyqJJL4Axk7) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%90%20%ED%94%8C%EB%A3%A8%EB%A6%AC%EB%B6%80%EC%8A%A4%20%EC%9A%B0%EB%88%94)
+  - [6장 카멜롯 영상](https://www.youtube.com/watch?v=Zb0joF8E5zE&list=PLmlRww_SJue4oDQ2Y1HrOKO-3crsYAbsm) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%B9%B4%EB%A9%9C%EB%A1%AF)
+  - [7장 바빌로니아 영상](https://www.youtube.com/watch?v=N7YO6PEKDSU&list=PLmlRww_SJue5SeJFjCuvLPQJ5_rMQ-Vac) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%94%EB%B9%8C%EB%A1%9C%EB%8B%88%EC%95%84)
+  - [종장 솔로몬 영상](https://www.youtube.com/watch?v=ScNAUJCfkn4&list=PLmlRww_SJue4gp5ms6P3DYZkbxBaili5R) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%86%94%EB%A1%9C%EB%AA%AC)
+- [1부 전체 플레이 영상](https://www.youtube.com/channel/UCDY6unDL1tq7fmXDggkR7cg/playlists?view=50&sort=dd&shelf_id=7)
+
 ## 1.5부 3장
 
 ![Image Alt 텍스트]({{site.url}}/assets/img/fgo/title-1.5-3.png)
