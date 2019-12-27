@@ -21,6 +21,7 @@ categories: jekyll update
   - [6장 카멜롯 영상](https://www.youtube.com/watch?v=Zb0joF8E5zE&list=PLmlRww_SJue4oDQ2Y1HrOKO-3crsYAbsm) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%B9%B4%EB%A9%9C%EB%A1%AF)
   - [7장 바빌로니아 영상](https://www.youtube.com/watch?v=N7YO6PEKDSU&list=PLmlRww_SJue5SeJFjCuvLPQJ5_rMQ-Vac) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%94%EB%B9%8C%EB%A1%9C%EB%8B%88%EC%95%84)
   - [종장 솔로몬 영상](https://www.youtube.com/watch?v=ScNAUJCfkn4&list=PLmlRww_SJue4gp5ms6P3DYZkbxBaili5R) / [줄거리](https://namu.wiki/w/Fate/Grand%20Order/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%86%94%EB%A1%9C%EB%AA%AC)
+
 ## 1.5부 3장
 
 ![Image Alt 텍스트]({{site.url}}/assets/img/fgo/title-1.5-3.png)
