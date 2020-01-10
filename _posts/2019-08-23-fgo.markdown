@@ -50,5 +50,5 @@ categories: jekyll update
 - [시계탑](https://gall.dcinside.com/board/view/?id=typemoon&no=6282641&exception_mode=recommend&page=1)
 - [시계탑 연표](https://gall.dcinside.com/typemoon/6281419)
 - [캐릭터 프로필](https://gall.dcinside.com/typemoon/6279655)
-  - [로드 유리피스]https://gall.dcinside.com/typemoon/6281007
+  - [로드 유리피스]https://gall.dcinside.com/typemoon/6281007)
 - [로드들 프로필](https://gall.dcinside.com/typemoon/6281202)
