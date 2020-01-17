@@ -52,3 +52,10 @@ categories: jekyll update
 - [캐릭터 프로필](https://gall.dcinside.com/typemoon/6279655)  
 - [로드 프로필](https://gall.dcinside.com/typemoon/6281202)
   - [로드 유리피스](https://gall.dcinside.com/typemoon/6281007)
+
+## 매크로
+
+- [녹스](https://kr.bignox.com/blog/category/releasenote/)는 6.5.03 버전으로 설치(다른 에뮬도 가능은 한데 테스트 안해봄)
+- 녹스 창을 최소화 하거나 트레이로 보내면 안됨.
+- [구매크로](https://gall.dcinside.com/mgallery/board/view/?id=mfgo&no=1725163) : 사용법 쉬움. 현재 사용중
+- [신매크로](https://gall.dcinside.com/mgallery/board/view/?id=mfgo&no=1598026) : 사용법이 약간 복잡하나 세팅이 정교하게 됨. 안써봄
